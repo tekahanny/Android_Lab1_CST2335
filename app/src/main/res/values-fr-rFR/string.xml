@@ -3,4 +3,24 @@
     <string name="app_name">Android Labs</string>
     <string name="hello_message">Bonjour!!</string>
     <string name="ButtonText">I\'m a button Fr</string>
+    <string name="look_at">Look at my GUI Fr</string>
+    <string name="click">CLICK HERE Fr</string>
+    <string name="check">Check this out! Fr</string>
+    <string name="switch_on">Switch on / of Fr</string>
+    <string name="type_here">Type here Fr</string>
+    <string name="enter_email">Enter your email address: Fr</string>
+    <string name="type_email">Type email here Fr</string>
+    <string name="type_password">Type your password: FR</string>
+    <string name="your_pr">Your profile Fr</string>
+    <string name="your_n">Your name: Fr</string>
+    <string name="enter_n">Enter your name Fr</string>
+    <string name="your_e">Your email: Fr</string>
+    <string name="enter_e">Enter your email Fr</string>
+    <string name="your_pi">Your picture: Fr</string>
+    <string name="click_b">Click the button above to take a picture Fr</string>
+    <string name="goto_chat">Go to chat Fr</string>
+
+    <string name="send">SEND Fr</string>
+    <string name="receive">RECEIVE Fr</string>
+
 </resources>
